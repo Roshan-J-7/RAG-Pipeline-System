@@ -1,3 +1,6 @@
+**RoshanJ** - Api credentials and .env files are Hidden get via User,Can't Disclose in version control.
+
+
 # Medical RAG Decision Tree Generator
 
 Generates structured medical decision trees from symptom input using Hybrid RAG + LLM.
